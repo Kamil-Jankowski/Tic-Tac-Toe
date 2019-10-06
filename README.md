@@ -1,6 +1,21 @@
 # Tic-Tac-Toe with AI
 
-**Stage 2: (ongoing)**
+**Stage 3: (ongoing)**
+
+_In this stage, you should analyze a Tic-Tac-Toe field._
+
+_Note. In this stage either 'X' or 'O' can start the game._
+
+_After printing the field, you need to find the state in which the game is at the moment. Possible states:_
+
+* _`"Game not finished"` - when no side has a three in a row but the field has empty cells;_
+* _`"Draw"` - when no side has a three in a row and the field has no empty cells;_
+* _`"X wins"` - when the field has three X in a row;_
+* _`"O wins"` - when the field has three O in a row;_
+* _`"Impossible"` - when the field has three X in a row as well as three O in a row. Or the field has a lot more X's that O's or vice versa (if the difference is 2 or more, should be 1 or 0)._ 
+
+***
+**Stage 2:**
 
 _In this stage, you should write a program that reads 11 symbols (notice that input includes `"` symbols at the start
 and in the end of a line) from the input, and writes an appropriate 3x3 field._
