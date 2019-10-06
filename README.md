@@ -2,14 +2,14 @@
 
 **Stage 2: (ongoing)**
 
-_In this stage, you should write a program that reads 11 symbols (notice that input includes " symbols at the start
+_In this stage, you should write a program that reads 11 symbols (notice that input includes `"` symbols at the start
 and in the end of a line) from the input, and writes an appropriate 3x3 field._
 
-_Elements of the field can contain only 'X', 'O' and ' ' symbols 
-(and input contain only these symbols except " at the start and in the end)._
+_Elements of the field can contain only `'X'`, `'O'` and `' '` symbols 
+(and input contain only these symbols except `"` at the start and in the end)._
 
-_Note, that field has a specific format and should start and end with '---------', 
-all lines in between should start and end with '|' symbol and cells and '|' symbols should be separated with a single space._ 
+_Note, that field has a specific format and should start and end with `'---------'`, 
+all lines in between should start and end with `'|'` symbol and cells and `'|'` symbols should be separated with a single space._ 
 
 ***
 **Stage 1:**
