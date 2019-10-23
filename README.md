@@ -1,4 +1,4 @@
-# Tic-Tac-Toe with AI
+# Tic-Tac-Toe
 
 **Stage 3: (ongoing)**
 
