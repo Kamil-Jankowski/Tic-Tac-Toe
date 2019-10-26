@@ -1,6 +1,35 @@
 # Tic-Tac-Toe
 
-**Stage 3: (ongoing)**
+**Stage 4: (ongoing)**
+
+_Now you need to implement human moves._
+
+_Suppose the bottom left cell has the coordinates (1, 1) and the top right cell has the coordinates (3, 3) like in this table:_
+
+(1, 3) (2, 3) (3, 3)
+(1, 2) (2, 2) (3, 2)
+(1, 1) (2, 1) (3, 1)
+
+_The program should work in the following way:_
+
+1. _Get the 3x3 field from the input as in the previous stages;_
+2. _Output this 3x3 field with cells before the user's move;_
+3. _Then ask the user about his next move;_
+4. _Then the user should input 2 numbers that represent the cell on which user wants to make his X or O. (9 symbols representing the field would be on the first line and these 2 numbers would be on the second line of the user input);_
+5. _Then output the table including the user's most recent move._
+
+_Do not delete code that checks for table state; it will be useful in the future._
+
+_Note that in this stage user moves as X, not O. Keep in mind that the first coordinate goes from left to right and the second coordinate goes from bottom to top. Also, notice that coordinates start with 1 and can be 1, 2 or 3._
+
+_But what if the user enters incorrect coordinates? The user could enter symbols instead of numbers or enter coordinates representing occupied cells. You need to prevent all of that by checking a user's input and catching possible exceptions._
+
+_The program should also check user input. If the user input is unsuitable, the program should ask him to enter coordinates again._ 
+
+_So, you need to output a field from the first line of the input and then ask the user to enter a move. Keep asking until the user enters coordinate that represents an empty cell on the field and after that output the field with that move. You should output the field only 2 times - before the move and after a legal move._
+
+***
+**Stage 3:**
 
 _In this stage, you should analyze a Tic-Tac-Toe field._
 
