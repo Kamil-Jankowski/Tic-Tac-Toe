@@ -1,6 +1,17 @@
 # Tic-Tac-Toe
 
-**Stage 4: (ongoing)**
+**Stage 5: (ongoing)**
+
+_Now it is time to make a working game!_
+
+_In the last stage, make it so you can play a full game with a friend. First one of you moves as X, and then the other one moves as O._
+
+_You need to create a game loop. The game starts with empty cells and ends when someone wins or there is a draw. You need to output the final result after the end of the game._
+
+_Good luck gaming!_ 
+
+***
+**Stage 4:**
 
 _Now you need to implement human moves._
 
