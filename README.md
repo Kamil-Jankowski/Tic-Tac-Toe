@@ -1,6 +1,6 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe - project finished
 
-**Stage 5: (ongoing)**
+**Stage 5:**
 
 _Now it is time to make a working game!_
 
